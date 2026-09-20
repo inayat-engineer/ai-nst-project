@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+env/
+
+# Uploaded/generated images (runtime data, not source)
+static/uploads/
+
+# Python bytecode
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
